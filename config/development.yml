@@ -1,0 +1,8 @@
+db:
+  host: '10.11.0.2'
+  username: 'webadm'
+  password: 'A123456'
+  syncronize: true
+
+jwt:
+  secret: 'topSecret51'
